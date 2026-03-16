@@ -1,0 +1,10 @@
+{
+  "editor.formatOnSave": true,
+  "[dart]": {
+    "editor.formatOnType": true
+  },
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "dart.flutterSdkPath": ".fvm/versions/3.41.4"
+}
